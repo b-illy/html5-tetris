@@ -7,7 +7,8 @@ tetris clone in javascript using html5 canvas (still a work in progress)
 - slow drop: tap the down arrow to move the piece 1 block down
 - piece storing and unstoring
 - line completion
-- scoring system
+- scoring system 
+- persistent high score tracking using local storage
 - bonus score for multiline break and combos
 
 
