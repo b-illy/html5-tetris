@@ -1,6 +1,6 @@
 # html5-tetris
 tetris clone in javascript using html5 canvas (still a work in progress)<br>
-if you're viewing this on github pages (github.io), click [here](index.html)
+if you want to try it out, click [here](https://b-illy.github.io/html5-tetris/) for a hosted and up-to-date version
 
 ## features
 - all original tetris pieces (random colours)
