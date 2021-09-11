@@ -1,5 +1,5 @@
 # html5-tetris
-tetris clone in javascript using html5 canvas (W.I.P)
+tetris clone in javascript using html5 canvas (still a work in progress)
 
 ## features
 - all original tetris pieces (random colours)
