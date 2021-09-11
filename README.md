@@ -7,7 +7,7 @@ if you want to try it out, click [here](https://b-illy.github.io/html5-tetris/) 
 - clockwise and anticlockwise piece rotation
 - slow drop: tap the down arrow to move the piece 1 block down
 - piece storing and unstoring
-- line completion
+- controls screen
 - scoring system 
 - persistent high score tracking using local storage
 - bonus score for multiline break and combos
