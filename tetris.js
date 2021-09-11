@@ -177,7 +177,7 @@ window.onload = () => {
 
             const fontSize = 17;
             ctx.fillStyle = "white";
-            //ctx.font = `${fontSize}px "Lato",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue","Helvetica","Arial",sans-serif`;
+            //ctx.font = `${fontSize}px "Lato",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue","Helvetica","Arial",sans-serif`; // same as main html
             ctx.font = `${fontSize}px Consolas, monospace`;
 
             // draw text
@@ -331,8 +331,6 @@ window.onload = () => {
                 ctx.font = "10px Consolas, monospace";
                 ctx.fillText("stored:", 1, 11);
             }
-
-            //console.log(currentPiece.pos);
         }
 
         frameCount++;
@@ -345,8 +343,6 @@ window.onload = () => {
         // left: 37, up: 38, right: 39, down: 40
         // esc: 27, space: 32
         // z: 90, x: 88, c: 67, v: 86
-
-        //console.log(event.keyCode);
 
         if (showHelp) {
             showHelp = false; // dismiss the controls screen if it's active
